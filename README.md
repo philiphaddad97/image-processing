@@ -1,4 +1,4 @@
-# image-processing
+# Image-processing
 Image Processing From Scratch in Pyhon 🐍
 
 1. Prewitt edge detector: gradient filter és nonmaxima-suppression (NMS)
